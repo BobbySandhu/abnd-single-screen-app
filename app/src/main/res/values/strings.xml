@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pro Furniture</string>
+    <string name="address">Address:</string>
+    <string name="complete_address">Shiv Nagar Extension, Janakpuri New Delhi, Delhi 110058</string>
+    <string name="about_us">About us</string>
+    <string name="about_us_desc">Pro furniture is a pioneer company in crafting highend quality furniture and we have great people with speciality in Oak furniture. \n\nCome visit us!! </string>
+    <string name="timings">Timings</string>
+    <string name="_9_30_am_10_00_pm">9.30 AM - 10.00 PM</string>
+    <string name="_91_9876543210">+91 9876543210</string>
+    <string name="contact_us">Contact us</string>
+    <string name="demo_lorem_com">demo@lorem.com</string>
+    <string name="credits">Made by: @SAHILJEET.abnd</string>
+</resources>
